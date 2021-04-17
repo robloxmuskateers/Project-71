@@ -1,0 +1,99 @@
+.campuslifetitle {
+    text-align: center;
+    font-size: 60;
+    font-family: fantasy;
+}
+
+.campuslifetext {
+    text-align: center;
+    font-family: monospace;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.marquee {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.video {
+    margin-left: 325px;
+}
+
+.contactustitle {
+    text-align: center;
+    font-size: 60;
+    font-family: fantasy;
+}
+
+.row::after {
+    content: none;
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 30.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+    margin-left: 20px;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.achievementstitle {
+    text-align: center;
+    font-size: 60;
+    font-family: fantasy;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.newtitle {
+    text-align: center;
+    font-size: 60;
+    font-family: fantasy;
+}
+
+.famoustitle {
+    text-align: center;
+    font-size: 60;
+    font-family: fantasy;
+}
+
+.modal-content {
+    background-color: white;
+    text-align: center;
+}
